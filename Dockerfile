@@ -1,3 +1,3 @@
 # Used to trigger updates on depended containers
 FROM debian:stable-slim
-LABEL maintainer="arnulf.heimsbakk@met.no"
+LABEL org.opencontainers.image.authors="arnulf.heimsbakk@met.no"
